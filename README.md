@@ -14,6 +14,15 @@ Themes for Bunny/BT Loader and Kettu Discord Tweaks
 | [Forest Moss](Forest%20Moss.json) | Deep woods greens with warm lantern light |
 | [Synthwave](Synthwave.json) | Neon magenta and cyan over an 80s night grid |
 | [Void](Void.json) | Pure black AMOLED theme with an icy blue glow |
+| [Crimson Noir](Crimson%20Noir.json) | Black chat with an oxblood red sidebar and a crimson edge |
+| [Lagoon](Lagoon.json) | Deep teal water under a lavender dusk |
+| [Espresso](Espresso.json) | Dark roast browns with a swirl of cream |
+| [Graphite](Graphite.json) | Pure grayscale with only a whisper of color for status |
+| [Phosphor](Phosphor.json) | Old school CRT terminal glowing in green |
+| [Glacier](Glacier.json) | Frosted slate blue with pale arctic ice |
+| [Mesa](Mesa.json) | Red canyon clay with turquoise stone |
+| [Ultraviolet](Ultraviolet.json) | Blacklight violet with acid lime highlights |
+| [Starlight](Starlight.json) | Cobalt night sky scattered with golden stars |
 
 ## Installing
 

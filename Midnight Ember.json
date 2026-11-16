@@ -1,7 +1,7 @@
 {
   "name": "Midnight Ember",
   "description": "Charcoal dark with glowing orange embers",
-  "version": "1",
+  "version": "2",
   "authors": [
     {
       "name": "i_795",
@@ -16,7 +16,7 @@
       "#16130f"
     ],
     "BACKGROUND_ACCENT": [
-      "#ff7a2f"
+      "#c74600"
     ],
     "BACKGROUND_FLOATING": [
       "#262019"
@@ -127,7 +127,7 @@
       "rgba(255,122,47,0.18)"
     ],
     "MENTION_FOREGROUND": [
-      "#ff7a2f"
+      "#ffa777"
     ],
     "REDESIGN_ACTIVITY_CARD_BACKGROUND": [
       "#221c16"
@@ -145,7 +145,7 @@
       "#FFFFFF1A"
     ],
     "REDESIGN_BUTTON_DANGER_BACKGROUND": [
-      "#e5484d"
+      "#da3d44"
     ],
     "REDESIGN_CHANNEL_CATEGORY_NAME_TEXT": [
       "#6f6357"
@@ -163,7 +163,7 @@
       "#e5484d"
     ],
     "STATUS_DANGER_BACKGROUND": [
-      "#e5484d"
+      "#da3d44"
     ],
     "STATUS_DANGER_TEXT": [
       "#ffffff"
@@ -240,23 +240,23 @@
     "BLUE_660": "#ffa45c",
     "BLUE_700": "#ffa45c",
     "BLACK_500": "#000000b2",
-    "BRAND_200": "#ff7a2f",
-    "BRAND_260": "#ff7a2f",
-    "BRAND_300": "#ff7a2f",
-    "BRAND_330": "#ff7a2f",
-    "BRAND_345": "#ff7a2f",
+    "BRAND_200": "#ffb991",
+    "BRAND_260": "#ffb991",
+    "BRAND_300": "#ff9b65",
+    "BRAND_330": "#ff9b65",
+    "BRAND_345": "#ff9b65",
     "BRAND_360": "#ff7a2f",
     "BRAND_400": "#ff7a2f",
-    "BRAND_430": "#ff7a2f",
-    "BRAND_460": "#ff7a2f",
-    "BRAND_500": "#ff7a2f",
-    "BRAND_530": "#ff7a2f",
-    "BRAND_560": "#d95f1a",
-    "BRAND_600": "#ff7a2f",
-    "BRAND_630": "#ff7a2f",
-    "BRAND_660": "#ff7a2f",
-    "BRAND_700": "#ff7a2f",
-    "BRAND_730": "#d95f1a",
+    "BRAND_430": "#d2510c",
+    "BRAND_460": "#d2510c",
+    "BRAND_500": "#c74600",
+    "BRAND_530": "#c74600",
+    "BRAND_560": "#ab3400",
+    "BRAND_600": "#952600",
+    "BRAND_630": "#7f1600",
+    "BRAND_660": "#6a0400",
+    "BRAND_700": "#550000",
+    "BRAND_730": "#410000",
     "PLUM_1": "#fff3e4",
     "PLUM_3": "#eadfd2",
     "PLUM_4": "#eadfd2",
@@ -291,39 +291,39 @@
     "PRIMARY_700": "#0b0907",
     "PRIMARY_730": "#0b0907",
     "PRIMARY_800": "#221c16",
-    "GREEN_260": "#7fc77a",
-    "GREEN_300": "#7fc77a",
-    "GREEN_330": "#7fc77a",
-    "GREEN_345": "#7fc77a",
+    "GREEN_260": "#c1deaf",
+    "GREEN_300": "#a1d295",
+    "GREEN_330": "#a1d295",
+    "GREEN_345": "#a1d295",
     "GREEN_360": "#7fc77a",
     "GREEN_400": "#7fc77a",
-    "GREEN_430": "#7fc77a",
-    "GREEN_460": "#7fc77a",
-    "GREEN_500": "#7fc77a",
-    "GREEN_530": "#7fc77a",
-    "GREEN_560": "#7fc77a",
-    "GREEN_600": "#7fc77a",
-    "GREEN_630": "#7fc77a",
-    "GREEN_660": "#7fc77a",
-    "GREEN_700": "#7fc77a",
+    "GREEN_430": "#488e44",
+    "GREEN_460": "#488e44",
+    "GREEN_500": "#3a8037",
+    "GREEN_530": "#3a8037",
+    "GREEN_560": "#2b6c28",
+    "GREEN_600": "#1e5c1c",
+    "GREEN_630": "#114c10",
+    "GREEN_660": "#033d04",
+    "GREEN_700": "#002e00",
     "GUILD_BOOSTING_PINK": "#ff7a2f",
-    "GUILD_BOOSTING_PURPLE": "#ff7a2f",
-    "GUILD_BOOSTING_PURPLE_FOR_GRADIENTS": "#ff7a2f",
-    "RED_260": "#e5484d",
-    "RED_300": "#e5484d",
-    "RED_330": "#e5484d",
-    "RED_345": "#e5484d",
+    "GUILD_BOOSTING_PURPLE": "#c74600",
+    "GUILD_BOOSTING_PURPLE_FOR_GRADIENTS": "#c74600",
+    "RED_260": "#f9a397",
+    "RED_300": "#f17972",
+    "RED_330": "#f17972",
+    "RED_345": "#f17972",
     "RED_360": "#e5484d",
     "RED_400": "#e5484d",
-    "RED_430": "#e5484d",
-    "RED_460": "#e5484d",
-    "RED_500": "#e5484d",
-    "RED_530": "#e5484d",
-    "RED_560": "#e5484d",
-    "RED_600": "#e5484d",
-    "RED_630": "#e5484d",
-    "RED_660": "#e5484d",
-    "RED_700": "#e5484d",
+    "RED_430": "#dc3f46",
+    "RED_460": "#dc3f46",
+    "RED_500": "#da3d44",
+    "RED_530": "#da3d44",
+    "RED_560": "#bc2a34",
+    "RED_600": "#a41826",
+    "RED_630": "#8c0119",
+    "RED_660": "#75000c",
+    "RED_700": "#5e0001",
     "ORANGE_260": "#f5c04e",
     "ORANGE_300": "#f5c04e",
     "ORANGE_330": "#f5c04e",

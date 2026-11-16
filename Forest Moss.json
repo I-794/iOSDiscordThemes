@@ -1,7 +1,7 @@
 {
   "name": "Forest Moss",
   "description": "Deep woods greens with warm lantern light",
-  "version": "1",
+  "version": "2",
   "authors": [
     {
       "name": "i_795",
@@ -16,7 +16,7 @@
       "#121a14"
     ],
     "BACKGROUND_ACCENT": [
-      "#8fce5a"
+      "#468000"
     ],
     "BACKGROUND_FLOATING": [
       "#1f2c22"
@@ -127,7 +127,7 @@
       "rgba(143,206,90,0.18)"
     ],
     "MENTION_FOREGROUND": [
-      "#8fce5a"
+      "#b3de91"
     ],
     "REDESIGN_ACTIVITY_CARD_BACKGROUND": [
       "#1b271e"
@@ -145,7 +145,7 @@
       "#FFFFFF1A"
     ],
     "REDESIGN_BUTTON_DANGER_BACKGROUND": [
-      "#e0604f"
+      "#cd4e3f"
     ],
     "REDESIGN_CHANNEL_CATEGORY_NAME_TEXT": [
       "#5f7260"
@@ -163,7 +163,7 @@
       "#e0604f"
     ],
     "STATUS_DANGER_BACKGROUND": [
-      "#e0604f"
+      "#cd4e3f"
     ],
     "STATUS_DANGER_TEXT": [
       "#ffffff"
@@ -240,23 +240,23 @@
     "BLUE_660": "#e3c16f",
     "BLUE_700": "#e3c16f",
     "BLACK_500": "#000000b2",
-    "BRAND_200": "#8fce5a",
-    "BRAND_260": "#8fce5a",
-    "BRAND_300": "#8fce5a",
-    "BRAND_330": "#8fce5a",
-    "BRAND_345": "#8fce5a",
+    "BRAND_200": "#c2e4a7",
+    "BRAND_260": "#c2e4a7",
+    "BRAND_300": "#a8d982",
+    "BRAND_330": "#a8d982",
+    "BRAND_345": "#a8d982",
     "BRAND_360": "#8fce5a",
     "BRAND_400": "#8fce5a",
-    "BRAND_430": "#8fce5a",
-    "BRAND_460": "#8fce5a",
-    "BRAND_500": "#8fce5a",
-    "BRAND_530": "#8fce5a",
-    "BRAND_560": "#6fae3d",
-    "BRAND_600": "#8fce5a",
-    "BRAND_630": "#8fce5a",
-    "BRAND_660": "#8fce5a",
-    "BRAND_700": "#8fce5a",
-    "BRAND_730": "#6fae3d",
+    "BRAND_430": "#548f1b",
+    "BRAND_460": "#548f1b",
+    "BRAND_500": "#468000",
+    "BRAND_530": "#468000",
+    "BRAND_560": "#376c00",
+    "BRAND_600": "#2a5b00",
+    "BRAND_630": "#1e4c00",
+    "BRAND_660": "#123c00",
+    "BRAND_700": "#062d00",
+    "BRAND_730": "#001f00",
     "PLUM_1": "#f4f9ec",
     "PLUM_3": "#dfe8d8",
     "PLUM_4": "#dfe8d8",
@@ -291,39 +291,39 @@
     "PRIMARY_700": "#090d0a",
     "PRIMARY_730": "#090d0a",
     "PRIMARY_800": "#1b271e",
-    "GREEN_260": "#8fce5a",
-    "GREEN_300": "#8fce5a",
-    "GREEN_330": "#8fce5a",
-    "GREEN_345": "#8fce5a",
+    "GREEN_260": "#c2e4a7",
+    "GREEN_300": "#a8d982",
+    "GREEN_330": "#a8d982",
+    "GREEN_345": "#a8d982",
     "GREEN_360": "#8fce5a",
     "GREEN_400": "#8fce5a",
-    "GREEN_430": "#8fce5a",
-    "GREEN_460": "#8fce5a",
-    "GREEN_500": "#8fce5a",
-    "GREEN_530": "#8fce5a",
-    "GREEN_560": "#8fce5a",
-    "GREEN_600": "#8fce5a",
-    "GREEN_630": "#8fce5a",
-    "GREEN_660": "#8fce5a",
-    "GREEN_700": "#8fce5a",
+    "GREEN_430": "#548f1b",
+    "GREEN_460": "#548f1b",
+    "GREEN_500": "#468000",
+    "GREEN_530": "#468000",
+    "GREEN_560": "#376c00",
+    "GREEN_600": "#2a5b00",
+    "GREEN_630": "#1e4c00",
+    "GREEN_660": "#123c00",
+    "GREEN_700": "#062d00",
     "GUILD_BOOSTING_PINK": "#8fce5a",
-    "GUILD_BOOSTING_PURPLE": "#8fce5a",
-    "GUILD_BOOSTING_PURPLE_FOR_GRADIENTS": "#8fce5a",
-    "RED_260": "#e0604f",
-    "RED_300": "#e0604f",
-    "RED_330": "#e0604f",
-    "RED_345": "#e0604f",
+    "GUILD_BOOSTING_PURPLE": "#468000",
+    "GUILD_BOOSTING_PURPLE_FOR_GRADIENTS": "#468000",
+    "RED_260": "#f1af9d",
+    "RED_300": "#ea8976",
+    "RED_330": "#ea8976",
+    "RED_345": "#ea8976",
     "RED_360": "#e0604f",
     "RED_400": "#e0604f",
-    "RED_430": "#e0604f",
-    "RED_460": "#e0604f",
-    "RED_500": "#e0604f",
-    "RED_530": "#e0604f",
-    "RED_560": "#e0604f",
-    "RED_600": "#e0604f",
-    "RED_630": "#e0604f",
-    "RED_660": "#e0604f",
-    "RED_700": "#e0604f",
+    "RED_430": "#d15242",
+    "RED_460": "#d15242",
+    "RED_500": "#cd4e3f",
+    "RED_530": "#cd4e3f",
+    "RED_560": "#b13c2f",
+    "RED_600": "#992d22",
+    "RED_630": "#831d14",
+    "RED_660": "#6d0c06",
+    "RED_700": "#570000",
     "ORANGE_260": "#e3c16f",
     "ORANGE_300": "#e3c16f",
     "ORANGE_330": "#e3c16f",
