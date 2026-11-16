@@ -1,7 +1,7 @@
 {
   "name": "Sakura Dusk",
   "description": "Cherry blossoms against a plum colored evening",
-  "version": "1",
+  "version": "2",
   "authors": [
     {
       "name": "i_795",
@@ -16,7 +16,7 @@
       "#1f1620"
     ],
     "BACKGROUND_ACCENT": [
-      "#ff8fb8"
+      "#b54d76"
     ],
     "BACKGROUND_FLOATING": [
       "#312333"
@@ -127,7 +127,7 @@
       "rgba(255,143,184,0.18)"
     ],
     "MENTION_FOREGROUND": [
-      "#ff8fb8"
+      "#ffb2cd"
     ],
     "REDESIGN_ACTIVITY_CARD_BACKGROUND": [
       "#2c1f2e"
@@ -145,7 +145,7 @@
       "#FFFFFF1A"
     ],
     "REDESIGN_BUTTON_DANGER_BACKGROUND": [
-      "#ff5c6c"
+      "#dc3a50"
     ],
     "REDESIGN_CHANNEL_CATEGORY_NAME_TEXT": [
       "#7b6272"
@@ -163,7 +163,7 @@
       "#ff5c6c"
     ],
     "STATUS_DANGER_BACKGROUND": [
-      "#ff5c6c"
+      "#dc3a50"
     ],
     "STATUS_DANGER_TEXT": [
       "#ffffff"
@@ -240,23 +240,23 @@
     "BLUE_660": "#ffb3d0",
     "BLUE_700": "#ffb3d0",
     "BLACK_500": "#000000b2",
-    "BRAND_200": "#ff8fb8",
-    "BRAND_260": "#ff8fb8",
-    "BRAND_300": "#ff8fb8",
-    "BRAND_330": "#ff8fb8",
-    "BRAND_345": "#ff8fb8",
+    "BRAND_200": "#ffc0d7",
+    "BRAND_260": "#ffc0d7",
+    "BRAND_300": "#ffa8c7",
+    "BRAND_330": "#ffa8c7",
+    "BRAND_345": "#ffa8c7",
     "BRAND_360": "#ff8fb8",
     "BRAND_400": "#ff8fb8",
-    "BRAND_430": "#ff8fb8",
-    "BRAND_460": "#ff8fb8",
-    "BRAND_500": "#ff8fb8",
-    "BRAND_530": "#ff8fb8",
-    "BRAND_560": "#e06a97",
-    "BRAND_600": "#ff8fb8",
-    "BRAND_630": "#ff8fb8",
-    "BRAND_660": "#ff8fb8",
-    "BRAND_700": "#ff8fb8",
-    "BRAND_730": "#e06a97",
+    "BRAND_430": "#c45a83",
+    "BRAND_460": "#c45a83",
+    "BRAND_500": "#b54d76",
+    "BRAND_530": "#b54d76",
+    "BRAND_560": "#9b3c62",
+    "BRAND_600": "#862e53",
+    "BRAND_630": "#722143",
+    "BRAND_660": "#5e1335",
+    "BRAND_700": "#4b0427",
+    "BRAND_730": "#380019",
     "PLUM_1": "#fff0f6",
     "PLUM_3": "#f1dfe8",
     "PLUM_4": "#f1dfe8",
@@ -291,39 +291,39 @@
     "PRIMARY_700": "#120c13",
     "PRIMARY_730": "#120c13",
     "PRIMARY_800": "#2c1f2e",
-    "GREEN_260": "#8fd6a4",
-    "GREEN_300": "#8fd6a4",
-    "GREEN_330": "#8fd6a4",
-    "GREEN_345": "#8fd6a4",
+    "GREEN_260": "#c9e4cd",
+    "GREEN_300": "#adddb8",
+    "GREEN_330": "#adddb8",
+    "GREEN_345": "#adddb8",
     "GREEN_360": "#8fd6a4",
     "GREEN_400": "#8fd6a4",
-    "GREEN_430": "#8fd6a4",
-    "GREEN_460": "#8fd6a4",
-    "GREEN_500": "#8fd6a4",
-    "GREEN_530": "#8fd6a4",
-    "GREEN_560": "#8fd6a4",
-    "GREEN_600": "#8fd6a4",
-    "GREEN_630": "#8fd6a4",
-    "GREEN_660": "#8fd6a4",
-    "GREEN_700": "#8fd6a4",
+    "GREEN_430": "#498f61",
+    "GREEN_460": "#498f61",
+    "GREEN_500": "#387e51",
+    "GREEN_530": "#387e51",
+    "GREEN_560": "#296a41",
+    "GREEN_600": "#1c5a34",
+    "GREEN_630": "#0e4b28",
+    "GREEN_660": "#003b1c",
+    "GREEN_700": "#002d11",
     "GUILD_BOOSTING_PINK": "#ff8fb8",
-    "GUILD_BOOSTING_PURPLE": "#ff8fb8",
-    "GUILD_BOOSTING_PURPLE_FOR_GRADIENTS": "#ff8fb8",
-    "RED_260": "#ff5c6c",
-    "RED_300": "#ff5c6c",
-    "RED_330": "#ff5c6c",
-    "RED_345": "#ff5c6c",
+    "GUILD_BOOSTING_PURPLE": "#b54d76",
+    "GUILD_BOOSTING_PURPLE_FOR_GRADIENTS": "#b54d76",
+    "RED_260": "#ffabb0",
+    "RED_300": "#ff868e",
+    "RED_330": "#ff868e",
+    "RED_345": "#ff868e",
     "RED_360": "#ff5c6c",
     "RED_400": "#ff5c6c",
-    "RED_430": "#ff5c6c",
-    "RED_460": "#ff5c6c",
-    "RED_500": "#ff5c6c",
-    "RED_530": "#ff5c6c",
-    "RED_560": "#ff5c6c",
-    "RED_600": "#ff5c6c",
-    "RED_630": "#ff5c6c",
-    "RED_660": "#ff5c6c",
-    "RED_700": "#ff5c6c",
+    "RED_430": "#e34156",
+    "RED_460": "#e34156",
+    "RED_500": "#dc3a50",
+    "RED_530": "#dc3a50",
+    "RED_560": "#be263f",
+    "RED_600": "#a51431",
+    "RED_630": "#8d0024",
+    "RED_660": "#760017",
+    "RED_700": "#5f000a",
     "ORANGE_260": "#f7cf7a",
     "ORANGE_300": "#f7cf7a",
     "ORANGE_330": "#f7cf7a",

@@ -1,7 +1,7 @@
 {
   "name": "Void",
   "description": "Pure black AMOLED theme with an icy blue glow",
-  "version": "1",
+  "version": "2",
   "authors": [
     {
       "name": "i_795",
@@ -16,7 +16,7 @@
       "#000000"
     ],
     "BACKGROUND_ACCENT": [
-      "#6cc4ff"
+      "#1e7fb6"
     ],
     "BACKGROUND_FLOATING": [
       "#101216"
@@ -127,7 +127,7 @@
       "rgba(108,196,255,0.18)"
     ],
     "MENTION_FOREGROUND": [
-      "#6cc4ff"
+      "#a3d9ff"
     ],
     "REDESIGN_ACTIVITY_CARD_BACKGROUND": [
       "#0c0e12"
@@ -145,7 +145,7 @@
       "#FFFFFF1A"
     ],
     "REDESIGN_BUTTON_DANGER_BACKGROUND": [
-      "#ff5a5f"
+      "#dc3843"
     ],
     "REDESIGN_CHANNEL_CATEGORY_NAME_TEXT": [
       "#565e6b"
@@ -163,7 +163,7 @@
       "#ff5a5f"
     ],
     "STATUS_DANGER_BACKGROUND": [
-      "#ff5a5f"
+      "#dc3843"
     ],
     "STATUS_DANGER_TEXT": [
       "#ffffff"
@@ -240,23 +240,23 @@
     "BLUE_660": "#8fd3ff",
     "BLUE_700": "#8fd3ff",
     "BLACK_500": "#000000b2",
-    "BRAND_200": "#6cc4ff",
-    "BRAND_260": "#6cc4ff",
-    "BRAND_300": "#6cc4ff",
-    "BRAND_330": "#6cc4ff",
-    "BRAND_345": "#6cc4ff",
+    "BRAND_200": "#b9e2ff",
+    "BRAND_260": "#b9e2ff",
+    "BRAND_300": "#94d3ff",
+    "BRAND_330": "#94d3ff",
+    "BRAND_345": "#94d3ff",
     "BRAND_360": "#6cc4ff",
     "BRAND_400": "#6cc4ff",
-    "BRAND_430": "#6cc4ff",
-    "BRAND_460": "#6cc4ff",
-    "BRAND_500": "#6cc4ff",
-    "BRAND_530": "#6cc4ff",
-    "BRAND_560": "#3f9fe0",
-    "BRAND_600": "#6cc4ff",
-    "BRAND_630": "#6cc4ff",
-    "BRAND_660": "#6cc4ff",
-    "BRAND_700": "#6cc4ff",
-    "BRAND_730": "#3f9fe0",
+    "BRAND_430": "#308cc4",
+    "BRAND_460": "#308cc4",
+    "BRAND_500": "#1e7fb6",
+    "BRAND_530": "#1e7fb6",
+    "BRAND_560": "#066a9d",
+    "BRAND_600": "#005a88",
+    "BRAND_630": "#004974",
+    "BRAND_660": "#003a60",
+    "BRAND_700": "#002a4d",
+    "BRAND_730": "#001c3b",
     "PLUM_1": "#ffffff",
     "PLUM_3": "#e3e8ef",
     "PLUM_4": "#e3e8ef",
@@ -291,39 +291,39 @@
     "PRIMARY_700": "#000000",
     "PRIMARY_730": "#000000",
     "PRIMARY_800": "#0c0e12",
-    "GREEN_260": "#4fd18b",
-    "GREEN_300": "#4fd18b",
-    "GREEN_330": "#4fd18b",
-    "GREEN_345": "#4fd18b",
+    "GREEN_260": "#b1e9c5",
+    "GREEN_300": "#85dda8",
+    "GREEN_330": "#85dda8",
+    "GREEN_345": "#85dda8",
     "GREEN_360": "#4fd18b",
     "GREEN_400": "#4fd18b",
-    "GREEN_430": "#4fd18b",
-    "GREEN_460": "#4fd18b",
-    "GREEN_500": "#4fd18b",
-    "GREEN_530": "#4fd18b",
-    "GREEN_560": "#4fd18b",
-    "GREEN_600": "#4fd18b",
-    "GREEN_630": "#4fd18b",
-    "GREEN_660": "#4fd18b",
-    "GREEN_700": "#4fd18b",
+    "GREEN_430": "#189756",
+    "GREEN_460": "#189756",
+    "GREEN_500": "#008949",
+    "GREEN_530": "#008949",
+    "GREEN_560": "#007439",
+    "GREEN_600": "#00632d",
+    "GREEN_630": "#005220",
+    "GREEN_660": "#004214",
+    "GREEN_700": "#003208",
     "GUILD_BOOSTING_PINK": "#6cc4ff",
-    "GUILD_BOOSTING_PURPLE": "#6cc4ff",
-    "GUILD_BOOSTING_PURPLE_FOR_GRADIENTS": "#6cc4ff",
-    "RED_260": "#ff5a5f",
-    "RED_300": "#ff5a5f",
-    "RED_330": "#ff5a5f",
-    "RED_345": "#ff5a5f",
+    "GUILD_BOOSTING_PURPLE": "#1e7fb6",
+    "GUILD_BOOSTING_PURPLE_FOR_GRADIENTS": "#1e7fb6",
+    "RED_260": "#ffb2ae",
+    "RED_300": "#ff8987",
+    "RED_330": "#ff8987",
+    "RED_345": "#ff8987",
     "RED_360": "#ff5a5f",
     "RED_400": "#ff5a5f",
-    "RED_430": "#ff5a5f",
-    "RED_460": "#ff5a5f",
-    "RED_500": "#ff5a5f",
-    "RED_530": "#ff5a5f",
-    "RED_560": "#ff5a5f",
-    "RED_600": "#ff5a5f",
-    "RED_630": "#ff5a5f",
-    "RED_660": "#ff5a5f",
-    "RED_700": "#ff5a5f",
+    "RED_430": "#e33f49",
+    "RED_460": "#e33f49",
+    "RED_500": "#dc3843",
+    "RED_530": "#dc3843",
+    "RED_560": "#be2433",
+    "RED_600": "#a51126",
+    "RED_630": "#8e0018",
+    "RED_660": "#76000b",
+    "RED_700": "#5f0000",
     "ORANGE_260": "#f5c451",
     "ORANGE_300": "#f5c451",
     "ORANGE_330": "#f5c451",

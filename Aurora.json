@@ -1,7 +1,7 @@
 {
   "name": "Aurora",
   "description": "Polar night sky lit up by green and violet northern lights",
-  "version": "1",
+  "version": "2",
   "authors": [
     {
       "name": "i_795",
@@ -16,7 +16,7 @@
       "#0d1524"
     ],
     "BACKGROUND_ACCENT": [
-      "#3ddc97"
+      "#008547"
     ],
     "BACKGROUND_FLOATING": [
       "#18243b"
@@ -127,7 +127,7 @@
       "rgba(61,220,151,0.18)"
     ],
     "MENTION_FOREGROUND": [
-      "#3ddc97"
+      "#8de7bb"
     ],
     "REDESIGN_ACTIVITY_CARD_BACKGROUND": [
       "#152036"
@@ -145,7 +145,7 @@
       "#FFFFFF1A"
     ],
     "REDESIGN_BUTTON_DANGER_BACKGROUND": [
-      "#f0607a"
+      "#d24461"
     ],
     "REDESIGN_CHANNEL_CATEGORY_NAME_TEXT": [
       "#5a6c85"
@@ -163,7 +163,7 @@
       "#f0607a"
     ],
     "STATUS_DANGER_BACKGROUND": [
-      "#f0607a"
+      "#d24461"
     ],
     "STATUS_DANGER_TEXT": [
       "#ffffff"
@@ -240,23 +240,23 @@
     "BLUE_660": "#a78bfa",
     "BLUE_700": "#a78bfa",
     "BLACK_500": "#000000b2",
-    "BRAND_200": "#3ddc97",
-    "BRAND_260": "#3ddc97",
-    "BRAND_300": "#3ddc97",
-    "BRAND_330": "#3ddc97",
-    "BRAND_345": "#3ddc97",
+    "BRAND_200": "#a7ebcb",
+    "BRAND_260": "#a7ebcb",
+    "BRAND_300": "#7be4b1",
+    "BRAND_330": "#7be4b1",
+    "BRAND_345": "#7be4b1",
     "BRAND_360": "#3ddc97",
     "BRAND_400": "#3ddc97",
-    "BRAND_430": "#3ddc97",
-    "BRAND_460": "#3ddc97",
-    "BRAND_500": "#3ddc97",
-    "BRAND_530": "#3ddc97",
-    "BRAND_560": "#28b87a",
-    "BRAND_600": "#3ddc97",
-    "BRAND_630": "#3ddc97",
-    "BRAND_660": "#3ddc97",
-    "BRAND_700": "#3ddc97",
-    "BRAND_730": "#28b87a",
+    "BRAND_430": "#109656",
+    "BRAND_460": "#109656",
+    "BRAND_500": "#008547",
+    "BRAND_530": "#008547",
+    "BRAND_560": "#007038",
+    "BRAND_600": "#00602b",
+    "BRAND_630": "#004f1f",
+    "BRAND_660": "#004013",
+    "BRAND_700": "#003008",
+    "BRAND_730": "#002200",
     "PLUM_1": "#f1f8ff",
     "PLUM_3": "#d9e6f2",
     "PLUM_4": "#d9e6f2",
@@ -291,39 +291,39 @@
     "PRIMARY_700": "#070b14",
     "PRIMARY_730": "#070b14",
     "PRIMARY_800": "#152036",
-    "GREEN_260": "#3ddc97",
-    "GREEN_300": "#3ddc97",
-    "GREEN_330": "#3ddc97",
-    "GREEN_345": "#3ddc97",
+    "GREEN_260": "#a7ebcb",
+    "GREEN_300": "#7be4b1",
+    "GREEN_330": "#7be4b1",
+    "GREEN_345": "#7be4b1",
     "GREEN_360": "#3ddc97",
     "GREEN_400": "#3ddc97",
-    "GREEN_430": "#3ddc97",
-    "GREEN_460": "#3ddc97",
-    "GREEN_500": "#3ddc97",
-    "GREEN_530": "#3ddc97",
-    "GREEN_560": "#3ddc97",
-    "GREEN_600": "#3ddc97",
-    "GREEN_630": "#3ddc97",
-    "GREEN_660": "#3ddc97",
-    "GREEN_700": "#3ddc97",
+    "GREEN_430": "#109656",
+    "GREEN_460": "#109656",
+    "GREEN_500": "#008547",
+    "GREEN_530": "#008547",
+    "GREEN_560": "#007038",
+    "GREEN_600": "#00602b",
+    "GREEN_630": "#004f1f",
+    "GREEN_660": "#004013",
+    "GREEN_700": "#003008",
     "GUILD_BOOSTING_PINK": "#3ddc97",
-    "GUILD_BOOSTING_PURPLE": "#3ddc97",
-    "GUILD_BOOSTING_PURPLE_FOR_GRADIENTS": "#3ddc97",
-    "RED_260": "#f0607a",
-    "RED_300": "#f0607a",
-    "RED_330": "#f0607a",
-    "RED_345": "#f0607a",
+    "GUILD_BOOSTING_PURPLE": "#008547",
+    "GUILD_BOOSTING_PURPLE_FOR_GRADIENTS": "#008547",
+    "RED_260": "#f8b0bb",
+    "RED_300": "#f68a9a",
+    "RED_330": "#f68a9a",
+    "RED_345": "#f68a9a",
     "RED_360": "#f0607a",
     "RED_400": "#f0607a",
-    "RED_430": "#f0607a",
-    "RED_460": "#f0607a",
-    "RED_500": "#f0607a",
-    "RED_530": "#f0607a",
-    "RED_560": "#f0607a",
-    "RED_600": "#f0607a",
-    "RED_630": "#f0607a",
-    "RED_660": "#f0607a",
-    "RED_700": "#f0607a",
+    "RED_430": "#d84a66",
+    "RED_460": "#d84a66",
+    "RED_500": "#d24461",
+    "RED_530": "#d24461",
+    "RED_560": "#b5324f",
+    "RED_600": "#9d2240",
+    "RED_630": "#861132",
+    "RED_660": "#700024",
+    "RED_700": "#5a0017",
     "ORANGE_260": "#f2d06b",
     "ORANGE_300": "#f2d06b",
     "ORANGE_330": "#f2d06b",
